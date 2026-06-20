@@ -116,16 +116,34 @@ Database-Driven Applications
 
 ---
 
-## 📊 GitHub Overview
+## 📊 Professional Work Snapshot
 
-<div align="center">
+Most of my practical development work is delivered through private, internal, or organization-based projects, so my public GitHub activity does not fully reflect my daily engineering work.
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahm9dhassan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+My real-world experience focuses on building and maintaining business software such as:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahm9dhassan&layout=compact&theme=tokyonight&hide_border=true)
+- FinTech platforms
+- ERP systems
+- HR management solutions
+- Office and workflow automation tools
+- Internal desktop applications
+- Web applications and REST APIs
 
-</div>
+I use GitHub as a public space to present my technical identity, share selected work, and document my development journey.
 
+---
+
+## 🧩 Development Mindset
+
+```txt
+Business-first software
+Clean and maintainable code
+Scalable backend architecture
+Reliable desktop applications
+API-driven systems
+Practical UI/UX for internal tools
+Long-term maintainability
+```
 ---
 
 ## 🌱 Currently Improving
